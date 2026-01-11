@@ -23,7 +23,7 @@ export const SubmitButton = () => {
         console.log('ran');
         
         try {
-            const res = await fetch('http://localhost:8000/pipelines/parse', {
+            const res = await fetch('https://vector-assign-backend.onrender.com/pipelines/parse', {
                 method: 'POST',
                 headers: {
                     "Content-Type": "application/json"
