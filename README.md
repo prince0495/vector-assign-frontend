@@ -2,7 +2,7 @@
 
 Completed the assignment for the pipeline automation
 
-**Production URL:** https://vector-assign-frontend.vercel.app/
+**Production URL:** https://vector-assign-frontend.vercel.app
 **Repository URL for frontend:** https://github.com/prince0495/vector-assign-frontend
 **Repository URL for backend:** https://github.com/prince0495/vector-assign-backend
 
